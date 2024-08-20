@@ -1,0 +1,15 @@
+
+body {
+    background-image: linear-gradient(to right, #DDA0DD, #D8BFD8, #E6E6FA);
+}
+p {
+    color: blue;
+}
+.rectangle {
+
+
+    width: 220px;
+    height: 600px;
+    background-color: lightyellow;
+    border: 2px solid lightsalmon;
+}
