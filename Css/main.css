@@ -55,3 +55,32 @@ p {
     top: 0;
     text-align: center;
 }
+.searchTask{
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    right: 200px;
+}
+input{
+    width: 80%;
+    height: 20%;
+    padding: 60px 40px;
+    /*this doesnt work idk why come back to fix it */
+}
+.task_table{
+    background-color: floralwhite;
+    position: absolute;
+    margin-top: 80px;
+    right: 120px;
+    font-size: larger;
+    padding: 10px;
+    border-radius: 1cm;
+    width: 80%;
+}
+#info-table{
+    color: lightsalmon;
+}
+#contenu-table{
+    color:#C39BD3;
+    font-size: medium;
+}
